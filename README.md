@@ -8,12 +8,14 @@ Every single code in this project is/will be written by me, the author and the o
 
 Just to come clean about my identity, this is KÜTÜKER, E. (10-D/548) 
 
-I usually prefer to use and go by my other name NORMAN, J. Charles on the internet though. One of my most populer aliases is Mr. Radix – as Radix DLT is my favourite DeFi protocol. 
+I usually prefer to use and go by my other name NORMAN, J. Charles on the internet though. 
 
-The accounts, websites, and compaines I own/run:
+One of my most known aliases is Mr. Radix – I chose that nickname as I'm a huge fan, investor, and a trusted community member of Radix DLT, which is basically a DeFi (Decentralized Finance) protocol. Learn more about Radix here: https://radixdlt.com
+
+Still not sure who I actually am? Here are the accounts, websites, and compaines I currently own and run:
 1) https://twitter.com/MisterXRD
 2) https://twitter.com/DinosaursXRD
 3) https://radicaldinosaurs.com
 4) https://weradix.com
-5) WeRadix Interactive
-6) Synclapse, Inc.
+6) WeRadix Interactive
+7) Synclapse, Inc.
